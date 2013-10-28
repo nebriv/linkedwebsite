@@ -3,7 +3,7 @@
 //Configuration Options
 
 //Full name is hack job to check that no one else can load their LinkedIn profile into your website
-
+//Password is used to authenticate yourself when updating your XML file. 
 $fullnamelinkedin = "FULL NAME";
 $password = "PASSWORD";
 
