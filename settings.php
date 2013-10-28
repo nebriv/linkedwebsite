@@ -8,7 +8,7 @@ $fullnamelinkedin = "FULL NAME";
 $password = "PASSWORD";
 
 //Website URL
-$baseurl = "http://benvirgilio.com";
+$baseurl = "YOUR WEBSITE URL";
 
 
 //Information to pull in from LinkedIn
