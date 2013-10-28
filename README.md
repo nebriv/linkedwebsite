@@ -17,3 +17,7 @@ Vist your website/update.php and "login" using your password. You will then be a
 For an example on displaying this information look at example.php
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nebriv/linkedwebsite/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
