@@ -1,5 +1,5 @@
-linkedwebsite
-=============
+LinkedIn Website Profile Updater
+===========================
 
 Create a LinkedIn API key and secret by going here and signing up for the developer network:
 https://www.linkedin.com/secure/developer
