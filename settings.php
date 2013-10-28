@@ -3,11 +3,12 @@
 //Configuration Options
 
 //Full name is hack job to check that no one else can load their LinkedIn profile into your website
-$fullnamelinkedin = "YOUR LINKED IN FULL NAME";
-$password = "INSERT RANDOME PASSWORD";
+
+$fullnamelinkedin = "Ben Virgilio";
+$password = "*&BVhajwmfnfsf";
 
 //Website URL
-$baseurl = "http://example.com";
+$baseurl = "http://benvirgilio.com";
 
 
 //Information to pull in from LinkedIn
@@ -31,8 +32,10 @@ $xmlfile = "profile.xml";
 //LinkedIn API Settings
 //-----------------------
 //API Keys
-define("CONSUMER_KEY", "KEY");
-define("CONSUMER_SECRET", "SECRET");
+define("CONSUMER_KEY", "ty3gtkw0kkec");
+define("CONSUMER_SECRET", "WAoT2DHLTLGXZf3c");
 
 //Permission Scope Requested
 $scope = "r_fullprofile+r_basicprofile+r_network+r_contactinfo";
+
+?>
